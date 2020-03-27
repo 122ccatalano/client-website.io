@@ -11,3 +11,7 @@ img {
 a:hover {
   background-color: #d3d3d3;
 }
+
+#carouselExampleControls {
+  width: 100vw;
+}
