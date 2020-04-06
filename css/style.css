@@ -12,10 +12,6 @@
   background-color: #d3d3d3;
 }
 
-.navB:hover {
-  background-color: #454a4f;
-}
-
 #carouselExampleControls {
   width: 100vw;
 }
@@ -35,7 +31,7 @@
 }
 
 #short {
-  width: 400px;
+  width:40%;
 }
 
 .small {
